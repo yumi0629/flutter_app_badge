@@ -10,6 +10,9 @@ Add unread count badges to Android & iOS devices.
 AppBadge.setAppBadge(count);
 ```
 
+## Notice:
+The plugin doesn't support AndroidX !! If your project has migrated to androidX, please migrate this plugin to androidX manually. See more: [Migrate to androidX](https://caijinglong.gitbooks.io/migrate-flutter-to-androidx/content/) .
+
 ## Support Devices
 - [x] APPLE
 - [x] HUAWEI
